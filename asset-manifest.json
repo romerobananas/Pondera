@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Pondera/static/css/main.0ded2974.chunk.css",
+    "main.js": "/Pondera/static/js/main.ff05a674.chunk.js",
+    "main.js.map": "/Pondera/static/js/main.ff05a674.chunk.js.map",
+    "runtime~main.js": "/Pondera/static/js/runtime~main.6cf35274.js",
+    "runtime~main.js.map": "/Pondera/static/js/runtime~main.6cf35274.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Pondera/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3cb8812e.chunk.js": "/Pondera/static/js/2.3cb8812e.chunk.js",
+    "static/js/2.3cb8812e.chunk.js.map": "/Pondera/static/js/2.3cb8812e.chunk.js.map",
+    "index.html": "/Pondera/index.html",
+    "precache-manifest.1cb1d133532bd8eee307710ea3c59e07.js": "/Pondera/precache-manifest.1cb1d133532bd8eee307710ea3c59e07.js",
+    "service-worker.js": "/Pondera/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Pondera/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.0ded2974.chunk.css.map": "/Pondera/static/css/main.0ded2974.chunk.css.map",
+    "static/media/styles.css": "/Pondera/static/media/button.c317631a.svg"
+  }
+}
