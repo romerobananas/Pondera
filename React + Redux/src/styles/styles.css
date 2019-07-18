@@ -1,0 +1,40 @@
+.margin {
+  margin: 0px;
+}
+.padding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.paper {
+  position: fixed;
+  z-index: 10;
+}
+
+.lottie {
+  z-index: -100;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+#myCanvas {
+  /* position:fixed; */
+  height: 500px;
+  width: 500px;
+  z-index: 10;
+  background-color: transparent !important;
+}
+.visualheight {
+  position: fixed;
+  height: 100vh;
+  z-index: 9999999;
+}
+.yellowbutton {
+  background: url(button.svg);
+  height: 100px;
+  width: 100px;
+  z-index: 9999999;
+  text-align: center;
+  border: transparent;
+  bottom: 0px;
+}
