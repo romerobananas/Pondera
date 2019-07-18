@@ -1,7 +1,7 @@
 {
   "name": "Game",
   "description": "Game",
-  "homepage": "https://romerobananas.github.io/appgame/",
+  "homepage": "https://romerobananas.github.io/Pondera/build/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
