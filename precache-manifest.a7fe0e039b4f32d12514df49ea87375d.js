@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d5ec30f6d0d9e385dbe912e61a8e9a5",
+    "revision": "04561ab9cf74613bf2f318e462a978ec",
     "url": "/Pondera/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pondera/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "b5c7cdf42dceac2a7d0b",
+    "revision": "5b23bbe8e3d931f7a540",
     "url": "/Pondera/static/css/main.36b5abff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pondera/static/js/2.418f257a.chunk.js"
   },
   {
-    "revision": "b5c7cdf42dceac2a7d0b",
-    "url": "/Pondera/static/js/main.7ffe884d.chunk.js"
+    "revision": "5b23bbe8e3d931f7a540",
+    "url": "/Pondera/static/js/main.21414115.chunk.js"
   },
   {
     "revision": "d7ec61fd910a004bc54d",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a053b87166d183a73999d9ab1b872ad9",
     "url": "/Pondera/static/media/02.a053b871.png"
+  },
+  {
+    "revision": "0630e7919e0119c70ab0fe49f7009deb",
+    "url": "/Pondera/static/media/auto.0630e791.gif"
   },
   {
     "revision": "c317631a13b670a611995c67837fdeec",
