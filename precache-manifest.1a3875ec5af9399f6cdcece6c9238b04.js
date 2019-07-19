@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04561ab9cf74613bf2f318e462a978ec",
+    "revision": "1b713d1e58e7f3bb0ad8f0605da58333",
     "url": "/Pondera/index.html"
   },
   {
-    "revision": "167a730167166548f0fb",
+    "revision": "85d8fbe4c53f7b976ae8",
     "url": "/Pondera/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "5b23bbe8e3d931f7a540",
-    "url": "/Pondera/static/css/main.36b5abff.chunk.css"
+    "revision": "7cd074241773ba7438a7",
+    "url": "/Pondera/static/css/main.406aaedf.chunk.css"
   },
   {
-    "revision": "167a730167166548f0fb",
-    "url": "/Pondera/static/js/2.418f257a.chunk.js"
+    "revision": "85d8fbe4c53f7b976ae8",
+    "url": "/Pondera/static/js/2.96a57855.chunk.js"
   },
   {
-    "revision": "5b23bbe8e3d931f7a540",
-    "url": "/Pondera/static/js/main.21414115.chunk.js"
+    "revision": "7cd074241773ba7438a7",
+    "url": "/Pondera/static/js/main.eece3da7.chunk.js"
   },
   {
     "revision": "d7ec61fd910a004bc54d",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c317631a13b670a611995c67837fdeec",
     "url": "/Pondera/static/media/button.c317631a.svg"
+  },
+  {
+    "revision": "b6537e1343730f7cc4d474cf14c09ab6",
+    "url": "/Pondera/static/media/textura.b6537e13.png"
   }
 ]);
