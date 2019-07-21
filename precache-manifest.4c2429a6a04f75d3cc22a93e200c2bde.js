@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f1df00d89b6bc849502d3d5b444b820",
+    "revision": "85de232466b1cc57b3ce5450ade767e3",
     "url": "/Pondera/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pondera/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "b491ef274fc9808803b3",
-    "url": "/Pondera/static/css/main.b46e9c37.chunk.css"
+    "revision": "cffe50ec6147b6614ddf",
+    "url": "/Pondera/static/css/main.32ae2841.chunk.css"
   },
   {
     "revision": "10362154ccc940f0c20c",
     "url": "/Pondera/static/js/2.f3b03a36.chunk.js"
   },
   {
-    "revision": "b491ef274fc9808803b3",
-    "url": "/Pondera/static/js/main.5d17adf0.chunk.js"
+    "revision": "cffe50ec6147b6614ddf",
+    "url": "/Pondera/static/js/main.c8ecf7e2.chunk.js"
   },
   {
     "revision": "d7ec61fd910a004bc54d",
