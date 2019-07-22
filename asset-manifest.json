@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pondera/static/css/main.32ae2841.chunk.css",
-    "main.js": "/Pondera/static/js/main.c8ecf7e2.chunk.js",
-    "main.js.map": "/Pondera/static/js/main.c8ecf7e2.chunk.js.map",
+    "main.css": "/Pondera/static/css/main.364a436a.chunk.css",
+    "main.js": "/Pondera/static/js/main.163b6acc.chunk.js",
+    "main.js.map": "/Pondera/static/js/main.163b6acc.chunk.js.map",
     "runtime~main.js": "/Pondera/static/js/runtime~main.6cf35274.js",
     "runtime~main.js.map": "/Pondera/static/js/runtime~main.6cf35274.js.map",
     "static/css/2.266e55a5.chunk.css": "/Pondera/static/css/2.266e55a5.chunk.css",
-    "static/js/2.f3b03a36.chunk.js": "/Pondera/static/js/2.f3b03a36.chunk.js",
-    "static/js/2.f3b03a36.chunk.js.map": "/Pondera/static/js/2.f3b03a36.chunk.js.map",
+    "static/js/2.bb551200.chunk.js": "/Pondera/static/js/2.bb551200.chunk.js",
+    "static/js/2.bb551200.chunk.js.map": "/Pondera/static/js/2.bb551200.chunk.js.map",
     "index.html": "/Pondera/index.html",
-    "precache-manifest.4c2429a6a04f75d3cc22a93e200c2bde.js": "/Pondera/precache-manifest.4c2429a6a04f75d3cc22a93e200c2bde.js",
+    "precache-manifest.6f6692b7cfc9ef8a676ae2f5cf1571c5.js": "/Pondera/precache-manifest.6f6692b7cfc9ef8a676ae2f5cf1571c5.js",
     "service-worker.js": "/Pondera/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/Pondera/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.32ae2841.chunk.css.map": "/Pondera/static/css/main.32ae2841.chunk.css.map",
+    "static/css/main.364a436a.chunk.css.map": "/Pondera/static/css/main.364a436a.chunk.css.map",
     "static/media/styles.css": "/Pondera/static/media/button.c317631a.svg",
     "static/media/textura.png": "/Pondera/static/media/textura.cd940e99.png"
   }
