@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pondera/precache-manifest.acf562f991cb326dddb11f6e5f0c68a6.js"
+  "/Pondera/precache-manifest.b45231a21683b9251f9b270f5ffad119.js"
 );
 
 self.addEventListener('message', (event) => {
